@@ -1,4 +1,4 @@
-# 🎧 Spotify Analysis Dashboard (Dashboard Development)
+# 🎧 Spotify Analysis (Dashboard Development)
 
 An interactive dashboard built using **Power BI** to explore Spotify trends across artists, albums, and tracks from **2013 to 2024**.
 
